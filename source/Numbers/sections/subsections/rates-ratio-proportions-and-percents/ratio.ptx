@@ -93,17 +93,8 @@
         <p>
             <md>
                 <mrow> \amp \textbf{Learning Point} </mrow>
-            </md>
-        </p>
-
-        <p>
-            <md>
+                <mrow> \amp \text{Learning Point} </mrow>
                 <mrow> \amp \text{Fraction} \, (\frac{a}{b})\, \text{can be expressed as a ratio} \, (a:b), \, i.e </mrow>
-            </md>
-        </p>
-
-        <p>
-            <md>
                 <mrow> \amp \frac{3}{8} = 3:8 </mrow>
             </md>
         </p>
@@ -375,6 +366,7 @@
                 <li>
                     <p>
                         Write the equivalenta form for each fraction such that the fraction have the same denominator.
+                        <m>\text{Write the equivalenta form for each fraction such that the fraction have the same denominator.}</m>
                     </p>
                 </li>
             </ul>
@@ -618,6 +610,7 @@
         <p>
             <md>
                 <mrow> \amp {\textbf{Key Takeaway}} </mrow>
+                <mrow> \amp \text{Learning Point} </mrow>
             </md>
         </p>
         <p>
@@ -632,6 +625,15 @@
                         <m>{\text{and for}}</m> <m>{b;}</m>
                         <md>
                             <mrow> \amp {\frac{b}{(a+b)}}</mrow>
+                        </md>
+                        <m>\text{If a quantity is divided in the ratio} [a:b], \text{the resulting fractions of the quantity are:}</m>
+                        <m>{\text{for}}</m> <m>{a;}</m>
+                        <md>
+                            <mrow>\amp \frac{a}{(a+b)} </mrow>
+                        </md>
+                        <m>{\text{and for}}</m> <m>{b;}</m>
+                        <md>
+                            <mrow> \amp \frac{b}{(a+b)}</mrow>
                         </md>
                     </p>
                 </li>
@@ -656,6 +658,25 @@
                         <m>{\text{for}}</m> <m>{c;}</m>
                         <md>
                             <mrow> \amp {\frac{c}{(a+b+c)}} </mrow>
+                        </md>
+                        <m>\text{For the ratio} [a:b:c], \text{the resulting fractions of quantities are:}</m>
+                    </p>
+                    <p>
+                        <m>\text{for}</m> <m>a;</m> 
+                        <md>
+                            <mrow> \amp \frac{a}{(a+b+c)}</mrow>
+                        </md>
+                    </p>
+                    <p>
+                        <m>\text{for}</m> <m>b;</m>
+                        <md>
+                            <mrow> \amp \frac{b}{(a+b+c)} </mrow>
+                        </md>
+                    </p>
+                    <p>
+                        <m>\text{for}</m> <m>c;</m>
+                        <md>
+                            <mrow> \amp \frac{c}{(a+b+c)} </mrow>
                         </md>
                     </p>
                 </li>
@@ -855,6 +876,18 @@
             To increase or decrease a quantity in a given ratio, 
             the quantity is multiplied by the corresponding fraction to the ratio.
         </p>
+        <p>
+            <md>
+                <mrow> \amp \text{Learning Point} </mrow>
+            </md>
+        </p>
+
+        <tabular>
+            <row>
+                <cell><m>{\color{green} \text{To increase or decrease a quantity in a given ratio, 
+                the quantity is multiplied by the corresponding fraction to the ratio.}}</m></cell>
+            </row>
+        </tabular>
 
         <example>
             <statement>
